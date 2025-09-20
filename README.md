@@ -19,7 +19,7 @@
 
 **My code in Python** 🐍 **for this challenge**
 
- 🔗 https://github.com/vegacastilloe/Sequence-Validator/blob/main/sequence_validator.py
+ 🔗 https://github.com/vegacastilloe/Conditionals/blob/main/conditionals.py
 
 
 # 🧩 Logical Combination Validator – pandas + Python
