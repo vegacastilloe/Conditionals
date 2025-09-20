@@ -73,5 +73,5 @@ Una tabla con:
 pip install pandas openpyxl
 ```
 ```python
-conditionals.py
+logical_validator.py
 ```
